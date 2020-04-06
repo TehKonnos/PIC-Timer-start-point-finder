@@ -7,3 +7,4 @@ A start point finder for PIC18F4550, with internal clock at 48Hz
 3. Χρησιμοποίησε το DIV στο Χ στο T0_DIV_X
 4. Βάλε το Start Point αριθμό στο Χ στο set_timer0(X)
 5.Done
+
