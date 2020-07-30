@@ -1,5 +1,5 @@
 # PIC-Timer-start-point-finder
-A start point finder for PIC18F4550, with internal clock at 48Hz
+A start point finder for PIC18F4550, with internal clock at 48MHz
 
 Οδηγίες χρήσης
 1. Τρέξε το πρόγραμμα με την εντολή python presc.py
