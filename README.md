@@ -8,3 +8,4 @@ A start point finder for PIC18F4550, with internal clock at 48MHz
 4. Βάλε το Start Point αριθμό στο Χ στο set_timer0(X)
 5. Done
 
+###### *Προσοχή, το αποτέλεσμα του προγράμματος είναι η ημιπερίοδος σε Hz!*
